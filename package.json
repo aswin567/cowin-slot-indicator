@@ -1,0 +1,24 @@
+{
+  "name": "cowin-slot-inidcator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon  index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^3.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "open": "^8.0.8",
+    "request": "^2.81.0",
+    "simple-node-logger": "18.12.24",
+    "twilio": "^3.62.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
